@@ -19,7 +19,7 @@ After cleaning my data, this is some of the information that I collected from th
 
 Linear Equation: y=2.81E-11x+57.19665
 
-*include picture of graph in excel*
+https://github.com/muctars/Honors-Stats-Capstone/blob/main/graph.png
 
 correlation coefficient r = .4568
 
